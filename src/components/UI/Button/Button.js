@@ -9,4 +9,6 @@ const button = (props) => (
     disabled={props.disabled}>{props.children}</button>
 );
 
+// this is a button
+
 export default button;
